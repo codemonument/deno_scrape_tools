@@ -1,5 +1,5 @@
 // TODO: Upgrade to newest one!
-import puppeteer from "https://deno.land/x/puppeteer@16.2.0/mod.ts";
+// import puppeteer from "https://deno.land/x/puppeteer@16.2.0/mod.ts";
 
 /*
 Puppeteer can use any recent version of Chromium or Firefox Nightly,

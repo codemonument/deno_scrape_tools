@@ -3,6 +3,8 @@
 
 A deno library of tools useful to writing scripts scraping websites
 
+[**GoTo Changelog**](./Changelog.md)
+
 ## Dependencies
 
 - https://deno.land/x/puppeteer@9.0.2/ 
